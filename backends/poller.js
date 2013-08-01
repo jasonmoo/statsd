@@ -71,7 +71,7 @@ exports.init = function(startupTime, config, emitter) {
 
     }(hosts));
 
-    return true;
   }
 
+  return true;
 };
